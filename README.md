@@ -3,12 +3,12 @@ Displays information about a [Raspberry Pi](https://www.raspberrypi.org/) on an 
  display.
  
 ## Demo
-![alt text](https://raw.githubusercontent.com/sayersauce/inky-phat-info/master/pi.jpg "InkyPHAT displaying information.")
+<img width="200" alt="InkyPHAT displaying information" src="https://raw.githubusercontent.com/sayersauce/inky-phat-info/master/pi.jpg">
 
 ## Credit
-System information credit to @funvill https://gist.github.com/funvill/5252169#file-gistfile1-py
+System information credit to funvill https://gist.github.com/funvill/5252169#file-gistfile1-py
 
-Font credit to Giles Boothhttp://www.suppertime.co.uk/blogmywiki/2017/04/chicago/
+Font credit to Giles Boot hhttp://www.suppertime.co.uk/blogmywiki/2017/04/chicago/
 
 ## Information
 - Timestamp
