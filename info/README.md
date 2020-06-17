@@ -3,7 +3,7 @@ Displays information about a [Raspberry Pi](https://www.raspberrypi.org/) on an 
  display.
  
 ## Demo
-<img width="400" alt="InkyPHAT displaying information" src="https://raw.githubusercontent.com/sayersauce/inky-phat-info/master/pi.jpg">
+<img width="400" alt="InkyPHAT displaying information" src="https://github.com/sayersauce/inky-phat-projects/blob/master/info/pi.jpg">
 
 ## Credit
 System information credit to funvill https://gist.github.com/funvill/5252169#file-gistfile1-py
